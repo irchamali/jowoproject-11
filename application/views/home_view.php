@@ -19,8 +19,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<!-- meta -->
 	<meta property="og:type" content="website" />
 	<meta property="og:image:type" content="image/jpeg">
-	<meta property="og:image" content="assets/img/subs-bg.jpg">
-	<meta property="og:image:secure_url" content="assets/img/subs-bg.jpg" />
+	<meta property="og:image" content="assets/img/profile-unu.jpg">
+	<meta property="og:image:secure_url" content="assets/img/profile-unu.jpg" />
 	<meta property="og:image:width" content="300" />
 	<meta property="og:image:height" content="300" />
 
@@ -429,14 +429,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <h3>Fakultas Teknik</h3>
             <p>Universitas Nahdlatul Ulama Indonesia</p>
             <div class="social-links">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                <a href="https://twitter.com/bro_irham" class="twitter"><i class="bx bxl-twitter"></i></a>
+                <a href="https://facebook.com/dosenirham" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="https://instagram.com/bro_irham" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="https://github.com/irchamali" class="github"><i class="bx bxl-github"></i></a>
+                <a href="https://www.linkedin.com/in/ircham-ali/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
             </div>
             <div class="copyright">
-                &copy; Copyright <strong><span>Fakultas Teknik</span></strong>
+                &copy; Copyright <strong><span>Fakultas Teknik </span></strong><?= date('Y'); ?>
             </div>
             <div class="credits">
                 Designed by <a href="https://jowokode.com/">Jowokode</a>
