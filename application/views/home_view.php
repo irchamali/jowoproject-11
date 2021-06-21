@@ -8,18 +8,24 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>MyResume Bootstrap Template - Index</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <title>Fakultas Teknik - Unusia</title>
+    <meta name="keywords" content="unusia, Unu, NU, Universitas Nahdlatul Ulama Indonesia, Fakultas Teknik, FT">
+	<meta name="description" content="Fakultas Teknik merupakan fakultas terbaik di lingkungan Universitas Nahdlatul Ulama Indonesia">
 
-    <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon">
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+	<!-- Favicons -->
+	<link href="assets/img/favicon.ico" rel="icon">
+	<link href="assets/img/apple-unu-icon.png" rel="apple-touch-icon">
+
+	<!-- meta -->
+	<meta property="og:type" content="website" />
+	<meta property="og:image:type" content="image/jpeg">
+	<meta property="og:image" content="assets/img/subs-bg.jpg">
+	<meta property="og:image:secure_url" content="assets/img/subs-bg.jpg" />
+	<meta property="og:image:width" content="300" />
+	<meta property="og:image:height" content="300" />
 
     <!-- Google Fonts -->
-    <link
-        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
     <!-- Vendor CSS Files -->
     <link href="assets/vendor/aos/aos.css" rel="stylesheet">
